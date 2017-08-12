@@ -1,0 +1,2 @@
+# jsbuild-core
+JSBuild Core
